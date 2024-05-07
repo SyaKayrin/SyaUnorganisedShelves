@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rafid_data</folder>
+	<filename>train_rafid_138.jpg</filename>
+	<path>D:\IS\Dataset\COS30018_Assignment\DATA_SET\Rafid_data\train_rafid_138.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>unorganised</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>462</xmin>
+			<ymin>281</ymin>
+			<xmax>505</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

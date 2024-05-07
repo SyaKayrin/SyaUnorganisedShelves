@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>train_rafid_477.jpg</filename>
+	<path>C:\Users\Munieb AWAD\OneDrive - Swinburne University Of Technology Sarawak Campus\sem 4 y 2 s 2\Intelligent System\ass_github\COS30018_Assignment\DATA_SET\New folder\New folder\train_rafid_477.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>unorganised</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>328</ymin>
+			<xmax>542</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>unorganised</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>380</ymin>
+			<xmax>71</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>train_rafid_487.jpg</filename>
+	<path>C:\Users\Munieb AWAD\OneDrive - Swinburne University Of Technology Sarawak Campus\sem 4 y 2 s 2\Intelligent System\ass_github\COS30018_Assignment\DATA_SET\New folder\New folder\train_rafid_487.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>unorganised</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>180</ymin>
+			<xmax>386</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>unorganised</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>373</ymin>
+			<xmax>299</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>unorganised</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>374</ymin>
+			<xmax>73</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>
