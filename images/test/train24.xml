@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test_group</folder>
+	<filename>train24.jpg</filename>
+	<path>C:\Users\rafid\Desktop\COS30018_Assignment\DATA_SET\Test_group\train24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>empty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>253</ymin>
+			<xmax>512</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>
